@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shurricanex
 - 👀 I’m interested in AI and Rust
-- 🌱 I’m currently learning rust and prompt engineering
+- 🌱 I’m currently learning rust and prompt engineering and reading You Don't Know JS Yet 
 - 📫 Reaching me through Sarakkornsakol@gmail.com
 
 <!---
